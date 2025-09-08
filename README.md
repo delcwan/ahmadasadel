@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Ahmad Asadel
 
-Saya seorang mahasiswa Teknologi Informasi yang berbasis di Medan, Indonesia. Saya sangat tertarik dengan dunia *backend development* dan *data science*, dan suka mengubah ide-ide kompleks menjadi solusi yang berfungsi dengan baik.
+Seorang mahasiswa Teknologi Informasi yang berbasis di Medan, Indonesia. Saya sangat tertarik dengan dunia *backend development* dan *data science*, dan suka mengubah ide-ide kompleks menjadi solusi yang berfungsi dengan baik.
 
 Di luar coding, saya suka bermain game, menonton anime, membaca buku, dan basket.
 
