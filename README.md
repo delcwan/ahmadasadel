@@ -2,7 +2,7 @@
 
 Saya seorang mahasiswa Teknologi Informasi yang berbasis di Medan, Indonesia. Saya sangat tertarik dengan dunia *backend development* dan *data science*, dan suka mengubah ide-ide kompleks menjadi solusi yang berfungsi dengan baik.
 
-Di luar coding, saya suka [Sebutkan hobi Anda, misal: bermain game, membaca buku, atau nonton anime].
+Di luar coding, saya suka bermain game, menonton anime, membaca buku, dan basket.
 
 ---
 
@@ -26,10 +26,3 @@ Di luar coding, saya suka [Sebutkan hobi Anda, misal: bermain game, membaca buku
 </p>
 
 ---
-
-### 📊 Statistik GitHub:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadasadel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadasadel&layout=compact&theme=dracula"/>
-</p>
